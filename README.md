@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Preview 
 
-![Calculator](Calculator-Demo.png)
+![Calculator](Calculator-Demo.PNG)
 
 
 ## Development server
